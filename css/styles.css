@@ -1,7 +1,27 @@
+body {
+  background-color: silver;
+}
+
+
 .jumbotron {
-	background-image: url("../images/bg3.jpg");
+	background-image: url("../images/bg4.jpg");
 	height: 60%;
 }
 .text-center h1 {
 	color:green;
+	font-family: 'Bungee Shade', cursive;
+}
+#gameDisplayPlayer1 {
+  background-color: ivory;
+  border: 2px solid blue;
+}
+
+#gameDisplayPlayer2 {
+  background-color: ivory;
+  border: 2px solid blue;
+}
+
+h1 {
+  color: red;
+font-style: italic;
 }
