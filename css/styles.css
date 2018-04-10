@@ -1,14 +1,14 @@
-body {
-  background-color: silver;
+/*body {*/
+  /*background-color: silver;*/
 }
 
 
-.jumbotron {
-	background-image: url("../images/bg4.jpg");
+/*.jumbotron {*/
+/*	background-image: url("../images/bg4.jpg");
 	height: 60%;
 }
-.text-center h1 {
-	color:green;
+.jumbotron h1 {
+	color:yellow;
 	font-family: 'Bungee Shade', cursive;
 }
 #gameDisplayPlayer1 {
@@ -25,3 +25,5 @@ h1 {
   color: red;
 font-style: italic;
 }
+
+*/
